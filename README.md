@@ -1,7 +1,7 @@
 # compile-time-sorting
 
 Author :  Rohan verma (cryptecx.xyz)
-
+Compiler : (C++17) gcc7.1
 Build commandline:  g++ -std=c++1z -g -v qsort_ct.cpp -o qsort_ct
  
  ```
